@@ -1,0 +1,10 @@
+{
+    "name": "nodejs ci",
+    "description" : "ci starter workflow",
+    "iconName": "abc",
+    "categories": [ 
+        "NPM Config"
+     ]
+
+}
+
